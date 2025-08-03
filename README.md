@@ -1,12 +1,15 @@
 # 👋 Olá, sou o Gustavo Becker! 👾
-#  FullStack ⏳ Em início de carreira.
+#  Desenvolvedor FullStack ⏳ Em início de carreira.
 ## Técnico em Desenvolvimento de Sistemas
 ### SENAC - Programa Jovem Programador.
 ---
 
-### Skills 🚀
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,php,laravel,mysql,git,github,vscode)](https://skillicons.dev)
+<p align="center">
+  <h3> Skills 🚀 </h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,php,laravel,mysql,git,github,vscode,figma" />
+  </a>
+</p>
 
 ---
 
