@@ -51,3 +51,5 @@ Meu último projeto finalizado, o site da empresa que trabalho atualmente, feito
 * ⚡ Curiosidade: **Adoro tecnologia e estou sempre em busca de novos desafios!**
 
 ---
+
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
