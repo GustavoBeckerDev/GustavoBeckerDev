@@ -52,4 +52,8 @@ Meu último projeto finalizado, o site da empresa que trabalho atualmente, feito
 
 ---
 
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+<div align=center>
+  
+<img src="https://raw.githubusercontent.com/GustavoBeckerDev/GustavoBeckerDev/output/snake.svg" alt="Snake animation" />
+
+</div>
