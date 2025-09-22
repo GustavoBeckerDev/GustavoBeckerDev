@@ -1,5 +1,5 @@
 # 👋 Olá, sou o Gustavo Becker! 👾
-#  Desenvolvedor FullStack ⏳ Em início de carreira.
+#  PHP Web Development
 ## 👨🏼‍🎓 Técnico em Desenvolvimento de Sistemas 60%
 ### SENAC - Programa Jovem Programador.
 ---
