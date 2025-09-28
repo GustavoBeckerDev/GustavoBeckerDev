@@ -19,15 +19,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavobecker.98/)
 
 ---
-## Meu último projeto:
-
-### A3ON Tecnologia WebPage => https://a3on.com.br/
-
-Meu último projeto finalizado, o site da empresa que trabalho atualmente, feito em HTML, CSS, JS, BOOTSTRAP, PHP
-
-[![Visualização da Tela Inicial do Meu Site](https://github.com/GustavoBeckerDev/GustavoBeckerDev/blob/main/assets/images/a3on-page-print.png?raw=true)](https://a3on.com.br/)
-
----
 
 ## Minhas Estatísticas do GitHub
 
