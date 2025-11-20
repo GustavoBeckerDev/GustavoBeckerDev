@@ -1,6 +1,6 @@
 # 👋 Olá, sou o Gustavo Becker! 👾
 #  PHP Web Development
-## 👨🏼‍🎓 Técnico em Desenvolvimento de Sistemas 60%
+## 👨🏼‍🎓 Técnico em Desenvolvimento de Sistemas 90%
 ### SENAC - Programa Jovem Programador.
 ---
 
