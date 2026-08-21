@@ -2,7 +2,6 @@
 #  PHP Web Development
 ## 👨🏼‍🎓 Técnico em Desenvolvimento de Sistemas
 ## 👨🏼‍🎓 Graduando em Ciência da Computação 
-### SENAC - Programa Jovem Programador.
 ---
 
 <p align="center">
@@ -11,13 +10,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,php,laravel,mysql,postgres,git,figma" />
   </a>
 </p>
-
----
-
-### Social Medias:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-becker-58a63a33a/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavobecker.98/)
 
 ---
 
