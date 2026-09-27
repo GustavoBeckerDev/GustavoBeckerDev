@@ -25,17 +25,6 @@
 
 ---
 
-### O que estou fazendo agora?
-
-* 🔭 Atualmente trabalhando em projetos pessoais com **Laravel para solucionar dores reais**
-* 🌱 Aprendendo mais sobre **O framework Laravel e a arquitetura MVC**
-* 👯 Colaborando em **Projetos da empresa onde trabalho atualmente, responsável pela criação do primeiro website da empresa: https://a3on.com.br**
-* 💬 Gosto de ouvir sobre **Tecnologias novas e o Universo do PHP**
-* 📫 Como me encontrar: **gustavobecker654@gmail.com**
-* ⚡ Curiosidade: **Adoro tecnologia e estou sempre em busca de novos desafios!**
-
----
-
 <div align=center>
   
 <img src="https://raw.githubusercontent.com/GustavoBeckerDev/GustavoBeckerDev/output/snake.svg" alt="Snake animation" />
