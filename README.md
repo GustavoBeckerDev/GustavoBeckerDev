@@ -1,13 +1,13 @@
 # 👋 Olá, sou o Gustavo Becker! 👾
 #  PHP Web Development
-## 👨🏼‍🎓 Técnico em Desenvolvimento de Sistemas
+## 👨🏼‍🎓 Técnico em Desenvolvimento de Sistemas 🗹
 ## 👨🏼‍🎓 Graduando em Ciência da Computação 
 ---
 
 <p align="center">
   <h3> Skills 🚀 </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,php,laravel,mysql,postgres,git,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,php,laravel,mysql,postgres,redis,git,figma" />
   </a>
 </p>
 
