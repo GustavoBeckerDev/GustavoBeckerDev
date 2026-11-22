@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Gustavo Becker - Full-Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#03060A"/>
+      <stop offset="0.55" stop-color="#04090E"/>
+      <stop offset="1" stop-color="#020508"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00E5FF"/>
+      <stop offset="0.5" stop-color="#7DF9FF"/>
+      <stop offset="1" stop-color="#00B8D4"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00E5FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00E5FF" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#00E5FF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#00E5FF" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#00E5FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#00E5FF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#00E5FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#00E5FF" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="textglow" x="-30%" y="-60%" width="160%" height="240%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .mono { font-family: 'Cascadia Mono','JetBrains Mono','Consolas','Courier New',monospace; }
+      .sans { font-family: 'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif; }
+      .name { font-size: 58px; font-weight: 800; letter-spacing: 2px; }
+      .sub  { font-size: 20px; letter-spacing: 5px; font-weight: 600; }
+      .tag  { font-size: 15px; letter-spacing: 1px; }
+      .kick { font-size: 13px; letter-spacing: 3px; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect width="1280" height="320" fill="url(#grid)"/>
+  <ellipse cx="1050" cy="150" rx="330" ry="230" fill="url(#glowA)"/>
+  <ellipse cx="170" cy="300" rx="320" ry="180" fill="url(#glowB)"/>
+
+  <!-- network constellation -->
+  <g fill="none" stroke="#00E5FF" stroke-opacity="0.20" stroke-width="1">
+    <path d="M720 70 L830 120 L790 210 L700 250 L640 170 Z"/>
+    <path d="M830 120 L950 60 M790 210 L900 250 M640 170 L560 110 M560 110 L700 250"/>
+  </g>
+  <g fill="#00E5FF">
+    <circle cx="720" cy="70" r="3"/><circle cx="830" cy="120" r="3"/>
+    <circle cx="790" cy="210" r="3"/><circle cx="700" cy="250" r="3"/>
+    <circle cx="640" cy="170" r="3"/><circle cx="950" cy="60" r="2.5"/>
+    <circle cx="900" cy="250" r="2.5"/><circle cx="560" cy="110" r="2.5"/>
+  </g>
+
+  <!-- frame corners -->
+  <g stroke="url(#cyan)" stroke-width="2" fill="none" opacity="0.8">
+    <path d="M28 46 V28 H46"/>
+    <path d="M1252 28 H1234 V46"/>
+    <path d="M28 274 V292 H46"/>
+    <path d="M1252 292 H1234 V274"/>
+  </g>
+
+  <!-- left copy -->
+  <text x="64" y="86" class="mono kick" fill="#00E5FF" opacity="0.85">&lt;/&gt;  FULL-STACK DEVELOPER</text>
+  <text x="62" y="158" class="sans name" fill="url(#cyan)" filter="url(#textglow)">GUSTAVO BECKER</text>
+  <text x="64" y="200" class="mono sub" fill="#CFEFF6" opacity="0.92">LARAVEL · VUE.JS · INERTIA · POSTGRESQL</text>
+  <text x="64" y="238" class="mono tag" fill="#7FA6B4">Criador do <tspan fill="#00E5FF" font-weight="700">NFSync</tspan> — documentos fiscais para contabilidade</text>
+  <text x="64" y="266" class="mono kick" fill="#3E6C7A">Técnico em Desenvolvimento de Sistemas · Ciência da Computação</text>
+
+  <!-- node mark (N) -->
+  <g transform="translate(1040 160)" filter="url(#soft)">
+    <g fill="none" stroke="#00E5FF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" opacity="0.95">
+      <path d="M-62 -78 L-62 78"/>
+      <path d="M62 -78 L62 78"/>
+      <path d="M-62 -78 L62 78"/>
+    </g>
+    <g fill="#03060A" stroke="#00E5FF" stroke-width="9">
+      <circle cx="-62" cy="-78" r="19"/>
+      <circle cx="62" cy="-78" r="19"/>
+      <circle cx="-62" cy="78" r="19"/>
+      <circle cx="62" cy="78" r="19"/>
+    </g>
+  </g>
+
+  <!-- bottom neon line -->
+  <rect x="0" y="316" width="1280" height="2" fill="url(#fade)"/>
+</svg>
